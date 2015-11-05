@@ -1,0 +1,23 @@
+name: ADHnetwork
+favicon: null
+layout_spectrum: 0.07427314133383334
+typography_spectrum: 0.6732911819126457
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.48380459914915264
+  lightness: 0.9086002334952354
+  saturation: 0.39359609177336097
+  rhythmicContrast: 0.9402004473377019
+purpose: []
