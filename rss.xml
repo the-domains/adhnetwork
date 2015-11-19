@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[ADHnetwork]]></title>
-        <description><![CDATA[ADHnetwork]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[ADH network | Access, Integrity, Entertainment]]></title>
+        <description><![CDATA[ADH network | Access, Integrity, Entertainment]]></description>
+        <link>https://thegrid.ai/adhnetwork/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 Nov 2015 14:32:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 19 Nov 2015 17:07:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/adhnetwork/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[In Partnership with Emote Media]]></title>
-            <description><![CDATA[<article><h1>In Partnership with Emote Media</h1><p>ADH Network is in production partnership with Emote Media</p></article>]]></description>
-            <link>undefinedin-partnership-with-emote-media/index.html</link>
+            <description><![CDATA[<article><h1>In Partnership with Emote Media</h1><p>ADH Network partners with the production company, Emote Media</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f40becf3-c26c-49a3-88df-bc9ac91054c3.jpg"></article>]]></description>
+            <link>https://thegrid.ai/adhnetwork/in-partnership-with-emote-media/index.html</link>
             <guid isPermaLink="false">3fd386a7-6981-43cb-bb2f-62691af51829</guid>
-            <pubDate>Thu, 19 Nov 2015 14:32:21 GMT</pubDate>
+            <pubDate>Thu, 19 Nov 2015 17:06:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
