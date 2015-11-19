@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'ADH Network partners with the production company, Emote Media'
-datePublished: '2015-11-19T17:06:54.025Z'
-dateModified: '2015-11-19T14:58:46.214Z'
-title: In Partnership with Emote Media
+datePublished: '2015-11-19T17:08:00.286Z'
+dateModified: '2015-11-19T17:07:57.718Z'
+title: ADH and Emote Media
 sourcePath: _posts/2015-11-19-in-partnership-with-emote-media.md
 published: true
 authors: []
