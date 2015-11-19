@@ -1,8 +1,7 @@
 name: ADHnetwork
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.37954
-title: 'Access. Insight. Integrity. Entertainment. '
+typography_spectrum: 0.6732911819126457
 cta:
   domain: null
   bucket: null
@@ -16,14 +15,9 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors:
-    - '#000000'
-    - '#ffffff'
-    - '#fbef00'
-    - '#7d7700'
-    - '#9f9f9f'
-  brandStrength: 0.6875
-  lightness: 0.5
-  saturation: 0.8125
-  rhythmicContrast: 1
+  brandColors: []
+  brandStrength: 0.48380459914915264
+  lightness: 0.9086002334952354
+  saturation: 0.39359609177336097
+  rhythmicContrast: 0.9402004473377019
 purpose: []
